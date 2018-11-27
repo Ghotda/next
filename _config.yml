@@ -18,7 +18,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - .gitignore
+  - scss
+  - gulpfile.js
+  - package.json
+  - package-lock.json
