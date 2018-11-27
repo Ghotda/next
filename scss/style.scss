@@ -4,3 +4,7 @@
 @import 'home';
 @import 'about';
 @import 'contacts';
+
+:focus {
+    outline: none !important;
+}
